@@ -1,6 +1,6 @@
 <h1 style="font-family: Arial, sans-serif;">Pokedex em JavaScript, HTML e CSS</h1>
 
-<img src"https://static.wikia.nocookie.net/tkoc/images/5/58/Pok%C3%A9dex.png/revision/latest/scale-to-width-down/1200?cb=20200623144843&path-prefix=pt-br">
+<img src="https://static.wikia.nocookie.net/tkoc/images/5/58/Pok%C3%A9dex.png/revision/latest/scale-to-width-down/1200?cb=20200623144843&path-prefix=pt-br">
 
 <p style="font-family: Georgia, serif;">Este projeto consiste em uma <strong>Pokedex</strong> simples desenvolvida utilizando as tecnologias web: JavaScript, HTML e CSS.</p>
 
